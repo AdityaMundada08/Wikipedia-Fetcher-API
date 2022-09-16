@@ -74,7 +74,7 @@ public class WikipediaFetcher {
 
     public static void main(String[] args) {
 
-        System.out.println("This side is Shreyansh");
+        System.out.println("This side is Aditya Mundada");
         System.out.println("wikipedia_fetecher Running AT"+ new Date().toString());
         WikipediaFetcher wikipediaFetcher = new WikipediaFetcher("india");
         WikiResult wikiResult = wikipediaFetcher.getResult();
